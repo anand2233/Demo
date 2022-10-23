@@ -5,7 +5,6 @@ pipeline {
 	   steps {
 	     sh "echo  i love CICD"
 	   }	 
-	 } 
-   
+     } 
    }
 }
